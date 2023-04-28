@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyMap_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4f6193e3f939a1d46abc46642df0a177, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 118484164608
+    m_Localized: ' It''s very hot because it''s a dense tropical climate.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 104995282944
+    m_Localized: ' It is a peaceful town where the protagonist was born.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9168019456
+    m_Localized: < The Beginning Village >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 114495381504
+    m_Localized: < Tropical Rain Forest >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2575561973760
+    m_Localized: < The Ruined Grassland >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2590057488384
+    m_Localized: < Sticky Pond >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2597087141888
+    m_Localized: < Deadly Poison Forest >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2602749452288
+    m_Localized: < Magic Stone >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2606587240448
+    m_Localized: < Magic Zone >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2609347092480
+    m_Localized: < Snowy Tower >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2611591045120
+    m_Localized: < Silent Desert >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2613864357888
+    m_Localized: < Mud Pit >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2614686441472
+    m_Localized: ' Terrible monsters come out of the cave.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616171225088
+    m_Localized: < Lava Field >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619056906240
+    m_Localized: < The Dark Shrine (Boss) >
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2580171513856
+    m_Localized: ' It looks like a village in a ruined grassland that was once swept
+      away by monsters.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2593098358784
+    m_Localized: ' The sticky liquid has an ominous feeling.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2598588702720
+    m_Localized: ' If you fall into deadly poison, you will become a skeleton.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2603898691584
+    m_Localized: ' What will happen when you collect the magic stones?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2607489015808
+    m_Localized: ' It''s like being enchanted.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2610177564672
+    m_Localized: ' It is a cold region where the wizard Archshane lives.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2612434100224
+    m_Localized: ' It''s like a desert, but it''s a quiet battlefield.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2616972337152
+    m_Localized: ' It is a land ruled by the demon lord cat.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2619899961344
+    m_Localized: ' You have to defeat the final boss, Emperor Lizard.'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

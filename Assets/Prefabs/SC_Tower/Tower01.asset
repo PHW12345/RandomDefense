@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower01
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: 2113b6d57ab34ec4dae3abd07a2c98b3, type: 3}
+  - {fileID: 4469296296670092670, guid: 5426df58d5477ac499e1984619c20481, type: 3}
+  - {fileID: 4469296296670092670, guid: 1c709b3f6541081468b45a8cb0cd4bde, type: 3}
+  - {fileID: 4469296296670092670, guid: 28bc9ad1fd7dace4ca741526c13e3a19, type: 3}
+  - {fileID: 4469296296670092670, guid: d5739a51a3b846b469f0318ca7111232, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: -935939499, guid: fe1c4a35121d0f646a075ae8f304aa9e, type: 3}
+    towerName: "\uAC80\uC0AC"
+    towerNameE: Sword Man
+    info: "\uACF5\uACA9\uB825\uACFC \uACF5\uACA9\uC18D\uB3C4\uAC00 \uBE60\uB974\uB098
+      \uC0AC\uC815\uAC70\uB9AC\uAC00 \uC9E7\uC2B5\uB2C8\uB2E4."
+    infoE: It has high attack power and attack speed, but short range.
+    damage: 15
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.65
+    range: 2.5
+    targetRange: 1x1
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: -935939499, guid: fe1c4a35121d0f646a075ae8f304aa9e, type: 3}
+    towerName: "\uAC80\uC0AC"
+    towerNameE: Sword Man
+    info: "\uACF5\uACA9\uB825\uACFC \uACF5\uACA9\uC18D\uB3C4\uAC00 \uBE60\uB974\uB098
+      \uC0AC\uC815\uAC70\uB9AC\uAC00 \uC9E7\uC2B5\uB2C8\uB2E4."
+    infoE: It has high attack power and attack speed, but short range.
+    damage: 20
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.55
+    range: 2.5
+    targetRange: 1x1
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: -203731815, guid: f447d318a28aefd4d857de07cfbf5a79, type: 3}
+    towerName: "\uAC80\uC0AC"
+    towerNameE: Sword Man
+    info: "\uACF5\uACA9\uB825\uACFC \uACF5\uACA9\uC18D\uB3C4\uAC00 \uBE60\uB974\uB098
+      \uC0AC\uC815\uAC70\uB9AC\uAC00 \uC9E7\uC2B5\uB2C8\uB2E4."
+    infoE: It has high attack power and attack speed, but short range.
+    damage: 30
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.45
+    range: 2.5
+    targetRange: 1x1
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: -203731815, guid: f447d318a28aefd4d857de07cfbf5a79, type: 3}
+    towerName: "\uAC80\uC0AC"
+    towerNameE: Sword Man
+    info: "\uACF5\uACA9\uB825\uACFC \uACF5\uACA9\uC18D\uB3C4\uAC00 \uBE60\uB974\uB098
+      \uC0AC\uC815\uAC70\uB9AC\uAC00 \uC9E7\uC2B5\uB2C8\uB2E4."
+    infoE: It has high attack power and attack speed, but short range.
+    damage: 45
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.35
+    range: 2.5
+    targetRange: 1x1
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: -1625937796, guid: fa7ac1280fedc9e48b40b1eea49ee8a3, type: 3}
+    towerName: "\uAC80\uC0AC"
+    towerNameE: Sword Man
+    info: "\uACF5\uACA9\uB825\uACFC \uACF5\uACA9\uC18D\uB3C4\uAC00 \uBE60\uB974\uB098
+      \uC0AC\uC815\uAC70\uB9AC\uAC00 \uC9E7\uC2B5\uB2C8\uB2E4."
+    infoE: It has high attack power and attack speed, but short range.
+    damage: 60
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.25
+    range: 2.5
+    targetRange: 1x1
+    cost: 70
+    sell: 400

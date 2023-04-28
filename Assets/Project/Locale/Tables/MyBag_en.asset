@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyBag_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 13c08103f69a6db42b194144d83d88a5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 210490417152
+    m_Localized: Long Range and Fast Attack Speed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329181845315584
+    m_Localized: " Try Touching The Soldier \n ^-^"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330157650141184
+    m_Localized: My Soldier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330172380536832
+    m_Localized: 'Wizards
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330167640973312
+    m_Localized: 'Bombs
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330161378877440
+    m_Localized: 'Archers
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 330164331667456
+    m_Localized: "Weapons \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334422716243968
+    m_Localized: ' Performs a Magic Attack that Ignores The Enemy''s Defense.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334414260527104
+    m_Localized: ' High Attack Power and Extent Range Attack are Possible.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334408510136320
+    m_Localized: ' It has High Attack Power and Attack Speed, but Short Range.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334424096169984
+    m_Localized: ' Fires a Flaming Arrow that Deals Additional Damage for a Short
+      Period of Time.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334425199271936
+    m_Localized: ' A Melee Soldier who ses Skills with The Power of The Wind.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334426298179584
+    m_Localized: ' Fires a Water Bomb that Slightly Reduces Movement Speed with a
+      100% Chance.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334427434835968
+    m_Localized: ' Uses Ice Magic that Freezes Monsters for a while.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334428458246144
+    m_Localized: ' Uses a Poison Arrow that Gives Continuous Damage with a Certain
+      Probability.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334429565542400
+    m_Localized: ' Strikes with a Blunt Weapon to Stun for a Short Time with a Certain
+      Probability.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334431012577280
+    m_Localized: ' Fires a Mud Bomb that Decreases Movement Speed with a Small Chance.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334432140845056
+    m_Localized: ' Use Lightning Magic to Stun Monsters with Powerful Damage.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334433231364096
+    m_Localized: ' Shoots an Ice Arrow that Freezes Opponents with a Certain Probability
+      or an Arrow with a Powerful Single Shot.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334434594512896
+    m_Localized: Inflicts Poison Damage Equal to Half of your Damage per second with
+      a Certain Chance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334438688153600
+    m_Localized: ' Fires Nuclear Bombs with Great Range and Extent Range. However,
+      the Rate of Fire is Slow.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 339186392817664
+    m_Localized: ' Uses Dark Magic that Causes Instant Death with a Certain Probability.
+      (Except Boss)'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

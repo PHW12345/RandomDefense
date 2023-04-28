@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower07
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: 54f8a5bc394bb5345bd2676a0940ad01, type: 3}
+  - {fileID: 4469296296670092670, guid: 5041f8236b665454fac14cd734c60c44, type: 3}
+  - {fileID: 4469296296670092670, guid: c1df0ddbbb4b9cf4b942f785a20846a6, type: 3}
+  - {fileID: 4469296296670092670, guid: 7033225abe927d1499acac75b6a10f96, type: 3}
+  - {fileID: 4469296296670092670, guid: adc72782c06d21047b401ffb0616a7c9, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: 1630135011, guid: c87dbd9631b390548bc5b22a886d4d00, type: 3}
+    towerName: "\uC5BC\uC74C \uB9C8\uBC95\uC0AC"
+    towerNameE: Ice Wizard
+    info: "30%\uD655\uB960\uB85C 3\uCD08\uAC04 \uC5BC\uB9AC\uB294 \uC5BC\uC74C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Use ice magic to freeze for 3 seconds with a 30% chance.
+    damage: 0
+    magicDamage: 20
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.1
+    range: 3.5
+    targetRange: 1x1
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: 1630135011, guid: c87dbd9631b390548bc5b22a886d4d00, type: 3}
+    towerName: "\uC5BC\uC74C \uB9C8\uBC95\uC0AC"
+    towerNameE: Ice Wizard
+    info: "40%\uD655\uB960\uB85C 5\uCD08\uAC04 \uC5BC\uB9AC\uB294 \uC5BC\uC74C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Use ice magic to freeze for 3 seconds with a 30% chance.
+    damage: 0
+    magicDamage: 30
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.05
+    range: 4
+    targetRange: 1x1
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: 758806335, guid: 3012296f1ee93934ab62227413b4f553, type: 3}
+    towerName: "\uC5BC\uC74C \uB9C8\uBC95\uC0AC"
+    towerNameE: Ice Wizard
+    info: "40%\uD655\uB960\uB85C 5\uCD08\uAC04 \uC5BC\uB9AC\uB294 \uC5BC\uC74C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Use ice magic to freeze for 3 seconds with a 30% chance.
+    damage: 0
+    magicDamage: 45
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1
+    range: 4.5
+    targetRange: 1x1
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: 758806335, guid: 3012296f1ee93934ab62227413b4f553, type: 3}
+    towerName: "\uC5BC\uC74C \uB9C8\uBC95\uC0AC"
+    towerNameE: Ice Wizard
+    info: "40%\uD655\uB960\uB85C 5\uCD08\uAC04 \uC5BC\uB9AC\uB294 \uC5BC\uC74C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Use ice magic to freeze for 3 seconds with a 30% chance.
+    damage: 0
+    magicDamage: 65
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.95
+    range: 5
+    targetRange: 1x1
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: -1758357298, guid: 4e0ad7d441105a64a87ad8aa494f9765, type: 3}
+    towerName: "\uC5BC\uC74C \uB9C8\uBC95\uC0AC"
+    towerNameE: Ice Wizard
+    info: "40%\uD655\uB960\uB85C 5\uCD08\uAC04 \uC5BC\uB9AC\uB294 \uC5BC\uC74C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Use ice magic to freeze for 3 seconds with a 30% chance.
+    damage: 0
+    magicDamage: 90
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.9
+    range: 5.5
+    targetRange: 1x1
+    cost: 70
+    sell: 400

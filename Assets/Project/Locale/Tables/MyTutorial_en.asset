@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3867c4bfcdbc2644ca4164417152d499, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 154384326778880
+    m_Localized: Purpose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 154656096706560
+    m_Localized: Hire Soldier to stop the waves of enemies!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 155565497311232
+    m_Localized: " Enemies arrive here\n stop it!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156233004015616
+    m_Localized: Hire Soldier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156382853914624
+    m_Localized: Hire mercenaries in strategic locations to defeat your enemies!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156544389144576
+    m_Localized: Click the signpost!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156547841056768
+    m_Localized: Choose Soldier!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 156549917237248
+    m_Localized: Soldie hired!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157264714719232
+    m_Localized: 'Price: 25 gold'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 157407790817280
+    m_Localized: Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158537501433856
+    m_Localized: Magic Enhancement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158577850638336
+    m_Localized: When enchanted, random stat values are strengthened.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158581424185344
+    m_Localized: Click the Up button!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158579675160576
+    m_Localized: Click Soldier!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 158584691548160
+    m_Localized: Grant Magical Aurora!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161195901640704
+    m_Localized: I'll Try!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161173676023808
+    m_Localized: Basic soldier type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161175659929600
+    m_Localized: There are four types of soldier.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161177476063232
+    m_Localized: Long Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161179887788032
+    m_Localized: 'Fast
+
+      Attack Speed'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161183801073664
+    m_Localized: Extent Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161187303317504
+    m_Localized: 'Strong
+
+      Magic Attack'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166394733060096
+    m_Localized: TUTORIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166396788269056
+    m_Localized: Hire soldier here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166398390493184
+    m_Localized: ' The battle begins!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166399871082496
+    m_Localized: When pressed, an enemy will appear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166405084602368
+    m_Localized: 'After pressing this button
+
+      Skills are used by tapping the
+      screen.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166555609784320
+    m_Localized: 'If you press this button again
+
+      Check is off.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 990677793300480
+    m_Localized: Guide!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

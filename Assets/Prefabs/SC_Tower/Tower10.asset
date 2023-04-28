@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower10
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: dbf4be41014be7d46a23031dd2337019, type: 3}
+  - {fileID: 4469296296670092670, guid: a9b8dcca9a4d72344aeb3e668364f903, type: 3}
+  - {fileID: 4469296296670092670, guid: 158831b6ef9d9be41ad45f65d7018423, type: 3}
+  - {fileID: 4469296296670092670, guid: 934424f854eb193449539e64e9b8f31e, type: 3}
+  - {fileID: 4469296296670092670, guid: 94a955af1efd32f4e992844a6b6caaf5, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: -149029871, guid: 6d45df650fc5f67449751515bf319dc8, type: 3}
+    towerName: "\uC9C4\uD759 \uD3EC\uBCD1"
+    towerNameE: MudBomb Man
+    info: "20% \uD655\uB960\uB85C \uC774\uB3D9\uC18D\uB3C4\uB97C 0.3 \uAC10\uC18C
+      \uC2DC\uD0A4\uB294 \uC811\uCC29\uC81C\uB97C \uBC1C\uC0AC \uD569\uB2C8\uB2E4. "
+    infoE: '20% chance to fire glue that reduces movement speed by 0.3. '
+    damage: 12
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.3
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 3.5
+    targetRange: 1.5x1.5
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: -149029871, guid: 6d45df650fc5f67449751515bf319dc8, type: 3}
+    towerName: "\uC9C4\uD759 \uD3EC\uBCD1"
+    towerNameE: MudBomb Man
+    info: "20% \uD655\uB960\uB85C \uC774\uB3D9\uC18D\uB3C4\uB97C 0.35 \uAC10\uC18C
+      \uC2DC\uD0A4\uB294 \uC811\uCC29\uC81C\uB97C \uBC1C\uC0AC \uD569\uB2C8\uB2E4. "
+    infoE: '20% chance to fire glue that reduces movement speed by 0.35. '
+    damage: 16
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.35
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 4
+    targetRange: 2x2
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: -268707367, guid: 3d2b0230a3929b341b7704ea13fec4ac, type: 3}
+    towerName: "\uC9C4\uD759 \uD3EC\uBCD1"
+    towerNameE: MudBomb Man
+    info: "20% \uD655\uB960\uB85C \uC774\uB3D9\uC18D\uB3C4\uB97C 0.4 \uAC10\uC18C
+      \uC2DC\uD0A4\uB294 \uC811\uCC29\uC81C\uB97C \uBC1C\uC0AC \uD569\uB2C8\uB2E4. "
+    infoE: '20% chance to fire glue that reduces movement speed by 0.4. '
+    damage: 24
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.4
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 4.5
+    targetRange: 2.5x2.5
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: -268707367, guid: 3d2b0230a3929b341b7704ea13fec4ac, type: 3}
+    towerName: "\uC9C4\uD759 \uD3EC\uBCD1"
+    towerNameE: MudBomb Man
+    info: "20% \uD655\uB960\uB85C \uC774\uB3D9\uC18D\uB3C4\uB97C 0.45 \uAC10\uC18C
+      \uC2DC\uD0A4\uB294 \uC811\uCC29\uC81C\uB97C \uBC1C\uC0AC \uD569\uB2C8\uB2E4. "
+    infoE: '20% chance to fire glue that reduces movement speed by 0.45. '
+    damage: 36
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.45
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 5
+    targetRange: 3x3
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: -382685544, guid: bbabe57220f22ee4f8c860d3e7b01bfe, type: 3}
+    towerName: "\uC9C4\uD759 \uD3EC\uBCD1"
+    towerNameE: MudBomb Man
+    info: "20% \uD655\uB960\uB85C \uC774\uB3D9\uC18D\uB3C4\uB97C 0.5 \uAC10\uC18C
+      \uC2DC\uD0A4\uB294 \uC811\uCC29\uC81C\uB97C \uBC1C\uC0AC \uD569\uB2C8\uB2E4. "
+    infoE: '20% chance to fire glue that reduces movement speed by 0.5. '
+    damage: 52
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.5
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 5.5
+    targetRange: 3.5x3.5
+    cost: 70
+    sell: 400

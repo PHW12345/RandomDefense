@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a866de6b9df393848ba03ab474dccbfd, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5720427427226976260
+  m_TableData:
+  - m_Id: 174243241984
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 818471559168
+    m_Localized: Game Tips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4604866912256
+    m_Localized: Now Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6469058879488
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5769352503296
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7385791127552
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7579664441344
+    m_Localized: 'Delete the old game record
+
+      Do you want to play a new game?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7740968984576
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7868391940096
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952345128960
+    m_Localized: 'There are no games to load.
+
+      Would you like to make a new
+      game?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13731341066240
+    m_Localized: Roulette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14136062042112
+    m_Localized: MyBag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771075270270976
+    m_Localized: DiaMond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771817511084032
+    m_Localized: 100 Pieces
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773275455348736
+    m_Localized: View ADs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5775133473300480
+    m_Localized: ADs Wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5775138225446912
+    m_Localized: Sec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5789055911780352
+    m_Localized: Do you want to play a new game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5789049523855360
+    m_Localized: 'Do you want to delete your old game history
+
+      and play a new
+      game?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073996604137472
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6099452808192000
+    m_Localized: Loading ADs.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105805110960128
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6527521033347072
+    m_Localized: Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6527526636937216
+    m_Localized: Sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10049762111053824
+    m_Localized: 0
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5720427427226976260
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e0b4bc361a1a00

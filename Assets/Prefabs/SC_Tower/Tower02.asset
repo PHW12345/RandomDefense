@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower02
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: 24ee693ab6b22e54f9e789e665b743db, type: 3}
+  - {fileID: 4469296296670092670, guid: 5cdbf0d219c608d44863fb20cc938033, type: 3}
+  - {fileID: 4469296296670092670, guid: fe56b728e4cca5b49bad2ff14d9e936a, type: 3}
+  - {fileID: 4469296296670092670, guid: ae23f387afcb19e479fa99a310d6bfaf, type: 3}
+  - {fileID: 4469296296670092670, guid: f8b983cf49ee7bb48bcbad410b5b06ef, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: 312411140, guid: dff96760d439f1040ac28fc8044607d4, type: 3}
+    towerName: "\uD3EC\uD0C4\uBCD1"
+    towerNameE: Bomb Man
+    info: "\uB192\uC740 \uACF5\uACA9\uB825\uACFC \uAD11\uC5ED\uACF5\uACA9\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+    infoE: High attack power and wide range attack are possible.
+    damage: 20
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 2
+    range: 3.5
+    targetRange: 1.5x1.5
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: 312411140, guid: dff96760d439f1040ac28fc8044607d4, type: 3}
+    towerName: "\uD3EC\uD0C4\uBCD1"
+    towerNameE: Bomb Man
+    info: "\uB192\uC740 \uACF5\uACA9\uB825\uACFC \uAD11\uC5ED\uACF5\uACA9\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+    infoE: High attack power and wide range attack are possible.
+    damage: 30
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 2
+    range: 4
+    targetRange: 2x2
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: -1195720938, guid: f73022dc2aa58c842909bd15992ed0ae, type: 3}
+    towerName: "\uD3EC\uD0C4\uBCD1"
+    towerNameE: Bomb Man
+    info: "\uB192\uC740 \uACF5\uACA9\uB825\uACFC \uAD11\uC5ED\uACF5\uACA9\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+    infoE: High attack power and wide range attack are possible.
+    damage: 45
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 2
+    range: 4.5
+    targetRange: 3x3
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: -1195720938, guid: f73022dc2aa58c842909bd15992ed0ae, type: 3}
+    towerName: "\uD3EC\uD0C4\uBCD1"
+    towerNameE: Bomb Man
+    info: "\uB192\uC740 \uACF5\uACA9\uB825\uACFC \uAD11\uC5ED\uACF5\uACA9\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+    infoE: High attack power and wide range attack are possible.
+    damage: 65
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 2
+    range: 5
+    targetRange: 4x4
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: 482774367, guid: 0a0c1279dee180b4899c847f9a179d65, type: 3}
+    towerName: "\uD3EC\uD0C4\uBCD1"
+    towerNameE: Bomb Man
+    info: "\uB192\uC740 \uACF5\uACA9\uB825\uACFC \uAD11\uC5ED\uACF5\uACA9\uC774 \uAC00\uB2A5\uD569\uB2C8\uB2E4."
+    infoE: High attack power and wide range attack are possible.
+    damage: 90
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 2
+    range: 5.5
+    targetRange: 5x5
+    cost: 70
+    sell: 400

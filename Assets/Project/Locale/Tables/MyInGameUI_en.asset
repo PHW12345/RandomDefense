@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyInGameUI_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c36fac4816977db41ae1538e5e53d36e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18135441408
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14540922880
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10812186624
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4874619379712
+    m_Localized: ReGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4869309390848
+    m_Localized: Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4865370939392
+    m_Localized: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4856109916160
+    m_Localized: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5505623056384
+    m_Localized: "Get Rewarded \nDouble Diamonds"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5524052828160
+    m_Localized: Get rewarded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150924130410496
+    m_Localized: Tutorial Complete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860509459013632
+    m_Localized: Norm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860511518416896
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860512940285952
+    m_Localized: Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860514391515136
+    m_Localized: Lege
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3860521056264192
+    m_Localized: Myth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114447651364864
+    m_Localized: Price 25 Gold
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

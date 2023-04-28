@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower15
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: dc794c1a7952bfb4aa9741f05b8aa0af, type: 3}
+  - {fileID: 4469296296670092670, guid: 1427bd66f3aa5254a974960f6cd6b623, type: 3}
+  - {fileID: 4469296296670092670, guid: 2f14c83c4f99e54428705fa96e6d3199, type: 3}
+  - {fileID: 4469296296670092670, guid: 1d8fcb3a3bfb87e48b54e5b2668c288a, type: 3}
+  - {fileID: 4469296296670092670, guid: 2e1ef25cda37f4d47a5bcba2688ff05e, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: 563556107, guid: 8fc7c56469d3f204f9abec54b48d1fd0, type: 3}
+    towerName: "\uC5B4\uB460 \uB9C8\uBC95\uC0AC"
+    towerNameE: Dark Wizard
+    info: "2% \uD655\uB960\uB85C \uBAAC\uC2A4\uD130\uB97C \uC989\uC0AC \uC2DC\uD0A4\uB294
+      \uB9C8\uBC95\uC744 \uC0AC\uC6A9 \uD569\uB2C8\uB2E4. (\uBCF4\uC2A4\uC81C\uC678)"
+    infoE: 2% chance to use magic that instantly kills monsters. (Excluding Boss)
+    damage: 0
+    magicDamage: 25
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 1
+    rate: 1
+    range: 3.5
+    targetRange: 1x1
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: 563556107, guid: 8fc7c56469d3f204f9abec54b48d1fd0, type: 3}
+    towerName: "\uC5B4\uB460 \uB9C8\uBC95\uC0AC"
+    towerNameE: Dark Wizard
+    info: "4% \uD655\uB960\uB85C \uBAAC\uC2A4\uD130\uB97C \uC989\uC0AC \uC2DC\uD0A4\uB294
+      \uB9C8\uBC95\uC744 \uC0AC\uC6A9 \uD569\uB2C8\uB2E4. (\uBCF4\uC2A4\uC81C\uC678)"
+    infoE: 4% chance to use magic that instantly kills monsters. (Excluding Boss)
+    damage: 0
+    magicDamage: 35
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 1
+    rate: 0.95
+    range: 4
+    targetRange: 1x1
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: -756024305, guid: 43efe55c018bdc541b69c16bd236a109, type: 3}
+    towerName: "\uC5B4\uB460 \uB9C8\uBC95\uC0AC"
+    towerNameE: Dark Wizard
+    info: "6% \uD655\uB960\uB85C \uBAAC\uC2A4\uD130\uB97C \uC989\uC0AC \uC2DC\uD0A4\uB294
+      \uB9C8\uBC95\uC744 \uC0AC\uC6A9 \uD569\uB2C8\uB2E4. (\uBCF4\uC2A4\uC81C\uC678)"
+    infoE: 6% chance to use magic that instantly kills monsters. (Excluding Boss)
+    damage: 0
+    magicDamage: 50
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 1
+    rate: 0.9
+    range: 4.5
+    targetRange: 1x1
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: -756024305, guid: 43efe55c018bdc541b69c16bd236a109, type: 3}
+    towerName: "\uC5B4\uB460 \uB9C8\uBC95\uC0AC"
+    towerNameE: Dark Wizard
+    info: "8% \uD655\uB960\uB85C \uBAAC\uC2A4\uD130\uB97C \uC989\uC0AC \uC2DC\uD0A4\uB294
+      \uB9C8\uBC95\uC744 \uC0AC\uC6A9 \uD569\uB2C8\uB2E4. (\uBCF4\uC2A4\uC81C\uC678)"
+    infoE: 8% chance to use magic that instantly kills monsters. (Excluding Boss)
+    damage: 0
+    magicDamage: 70
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 1
+    rate: 0.85
+    range: 5
+    targetRange: 1x1
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: -1571417081, guid: 571f3b25aa84ad94ea5aa95080d16980, type: 3}
+    towerName: "\uC5B4\uB460 \uB9C8\uBC95\uC0AC"
+    towerNameE: Dark Wizard
+    info: "10% \uD655\uB960\uB85C \uBAAC\uC2A4\uD130\uB97C \uC989\uC0AC \uC2DC\uD0A4\uB294
+      \uB9C8\uBC95\uC744 \uC0AC\uC6A9 \uD569\uB2C8\uB2E4. (\uBCF4\uC2A4\uC81C\uC678)"
+    infoE: 10% chance to use magic that instantly kills monsters. (Excluding Boss)
+    damage: 0
+    magicDamage: 100
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 1
+    rate: 0.8
+    range: 5.5
+    targetRange: 1x1
+    cost: 70
+    sell: 400

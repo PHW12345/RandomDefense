@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower03
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: c09fe7f553670a7488ac414e99d74bfd, type: 3}
+  - {fileID: 4469296296670092670, guid: e77c133c0b1121944a72a0d1b4487230, type: 3}
+  - {fileID: 4469296296670092670, guid: 15b0876366573a542913c5cc5d0cffca, type: 3}
+  - {fileID: 4469296296670092670, guid: 12e1c529af4313241a0eacf089721f7d, type: 3}
+  - {fileID: 4469296296670092670, guid: c9d1199214580594cb6609e56a5fe40b, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: 706578491, guid: c05ec0d42f83a5b45adaec5be39f521e, type: 3}
+    towerName: "\uD654\uC5FC \uB9C8\uBC95\uC0AC"
+    towerNameE: Fire Wizard
+    info: "\uC801\uC758 \uBC29\uC5B4\uB825\uC744 \uBB34\uC2DC\uD558\uB294 \uB9C8\uBC95
+      \uACF5\uACA9\uC744 \uD569\uB2C8\uB2E4."
+    infoE: Performs a magic attack that ignores the enemy's defense.
+    damage: 0
+    magicDamage: 25
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1
+    range: 3.5
+    targetRange: 1x1
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: 706578491, guid: c05ec0d42f83a5b45adaec5be39f521e, type: 3}
+    towerName: "\uD654\uC5FC \uB9C8\uBC95\uC0AC"
+    towerNameE: Fire Wizard
+    info: "\uC801\uC758 \uBC29\uC5B4\uB825\uC744 \uBB34\uC2DC\uD558\uB294 \uB9C8\uBC95
+      \uACF5\uACA9\uC744 \uD569\uB2C8\uB2E4."
+    infoE: Performs a magic attack that ignores the enemy's defense.
+    damage: 0
+    magicDamage: 35
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.95
+    range: 4
+    targetRange: 1x1
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: 1777988042, guid: 49c573a89a4580a47aff543f41254330, type: 3}
+    towerName: "\uD654\uC5FC \uB9C8\uBC95\uC0AC"
+    towerNameE: Fire Wizard
+    info: "\uC801\uC758 \uBC29\uC5B4\uB825\uC744 \uBB34\uC2DC\uD558\uB294 \uB9C8\uBC95
+      \uACF5\uACA9\uC744 \uD569\uB2C8\uB2E4."
+    infoE: Performs a magic attack that ignores the enemy's defense.
+    damage: 0
+    magicDamage: 50
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.2
+    range: 4
+    targetRange: 1x1
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: 1777988042, guid: 49c573a89a4580a47aff543f41254330, type: 3}
+    towerName: "\uD654\uC5FC \uB9C8\uBC95\uC0AC"
+    towerNameE: Fire Wizard
+    info: "\uC801\uC758 \uBC29\uC5B4\uB825\uC744 \uBB34\uC2DC\uD558\uB294 \uB9C8\uBC95
+      \uACF5\uACA9\uC744 \uD569\uB2C8\uB2E4."
+    infoE: Performs a magic attack that ignores the enemy's defense.
+    damage: 0
+    magicDamage: 70
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.9
+    range: 5
+    targetRange: 1x1
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: -905684609, guid: be7246b030ac3b2489d5a7ce855c7182, type: 3}
+    towerName: "\uD654\uC5FC \uB9C8\uBC95\uC0AC"
+    towerNameE: Fire Wizard
+    info: "\uC801\uC758 \uBC29\uC5B4\uB825\uC744 \uBB34\uC2DC\uD558\uB294 \uB9C8\uBC95
+      \uACF5\uACA9\uC744 \uD569\uB2C8\uB2E4."
+    infoE: Performs a magic attack that ignores the enemy's defense.
+    damage: 0
+    magicDamage: 100
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.85
+    range: 5.5
+    targetRange: 1x1
+    cost: 70
+    sell: 400

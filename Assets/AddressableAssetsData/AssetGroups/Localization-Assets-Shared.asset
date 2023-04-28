@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 74f8b0fc90ff8b543b5a3838611afa6b
+  m_SerializeEntries:
+  - m_GUID: a866de6b9df393848ba03ab474dccbfd
+    m_Address: Assets/Project/Locale/Tables/My Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 13c08103f69a6db42b194144d83d88a5
+    m_Address: Assets/Project/Locale/Tables/MyBag Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: fa60f4f9f7cacb84c8ed927495581dc0
+    m_Address: Assets/Project/Locale/Tables/MyGameTip Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 1686afbbd24540943be91631e004d8fa
+    m_Address: Assets/Project/Locale/Tables/MyRM Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 4f6193e3f939a1d46abc46642df0a177
+    m_Address: Assets/Project/Locale/Tables/MyMap Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c36fac4816977db41ae1538e5e53d36e
+    m_Address: Assets/Project/Locale/Tables/MyInGameUI Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 7da0c6b6620112e48bceb5028c7131e7
+    m_Address: Assets/Project/Locale/Tables/MyMonster Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 979a97a0b0e0e584bbffe3bb7cd80cf2
+    m_Address: Assets/Project/Locale/Tables/MyAlam Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3b7265be13d7aa94eab3f81979178412
+    m_Address: Assets/Project/Locale/Tables/MyTower Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 6d8fcafc7b1158a4baa34363d1839d55
+    m_Address: Assets/Project/Locale/Tables/MySkill Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3867c4bfcdbc2644ca4164417152d499
+    m_Address: Assets/Project/Locale/Tables/MyTutorial Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: d0e2fe32a5409bc45a93813e1022f0b9
+    m_Address: Assets/Project/Locale/Tables/MyTutorialAsset Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 38d717e674014ee46a387ab44192ce0c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5a9c202c856846148a39fcea54644716, type: 2}
+    - {fileID: 11400000, guid: 165d2656f954b6544b9b31a84ccf7051, type: 2}

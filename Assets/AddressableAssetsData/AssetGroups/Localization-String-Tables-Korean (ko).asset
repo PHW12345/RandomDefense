@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Korean (ko)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Korean (ko)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 99cb0be63d1f10b4b8d1008e5b6f3e13
+  m_SerializeEntries:
+  - m_GUID: dd4cce483539cd843860d61fc7d372bb
+    m_Address: MyTable_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: 3d17dd69c19d8674dba923d3c779ca5f
+    m_Address: MyBag_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: 896755518c81cf74391fcbac58ad7f56
+    m_Address: MyGameTip_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: 3b79efe4fc92b144a8907f6d3ca1972e
+    m_Address: MyRM_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: 00ccf6e0590456b458f1d549f0d54b58
+    m_Address: MyMap_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: 115c5fe5674ac8e499efde4013ac80a6
+    m_Address: MyInGameUI_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: 011b432b3d9d4cb4ba999a874f93fc4b
+    m_Address: MyMonster_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: af8ee8cdbee85064f9ab577653bf1869
+    m_Address: MyAlam_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: ee551baf95aed9d41a23111d30558d94
+    m_Address: MyTower_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: bc808b1a934ff0d45b4f3036ee1aa705
+    m_Address: MySkill_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  - m_GUID: ffe5f76a0b1210746a01931669e34567
+    m_Address: MyTutorial_ko
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ko
+    - Preload
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 38d717e674014ee46a387ab44192ce0c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 35bcaee5995e8404fb5ae258c040837b, type: 2}
+    - {fileID: 11400000, guid: fa9d8e7d7c76f86409f21bda5079210d, type: 2}

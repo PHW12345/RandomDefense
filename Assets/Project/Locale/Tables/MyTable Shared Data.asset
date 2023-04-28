@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MyTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MyTable
+  m_TableCollectionNameGuidString: a866de6b9df393848ba03ab474dccbfd
+  m_Entries:
+  - m_Id: 174243241984
+    m_Key: Lobby-MapName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 818471559168
+    m_Key: Lobby-Icon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4604866912256
+    m_Key: LoadingScene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5769352503296
+    m_Key: Main-Button01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6469058879488
+    m_Key: Main-Button00
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7385791127552
+    m_Key: Main-Button02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7579664441344
+    m_Key: NewGamePopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7740968984576
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7868391940096
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7952345128960
+    m_Key: LoadPopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13731341066240
+    m_Key: gatcha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14136062042112
+    m_Key: Mydeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771075270270976
+    m_Key: DiaMond
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5771817511084032
+    m_Key: DiaQuantity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5773275455348736
+    m_Key: ViewADs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5775133473300480
+    m_Key: ADsWait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5775138225446912
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5789049523855360
+    m_Key: newGameText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5789055911780352
+    m_Key: newGameText1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6073996604137472
+    m_Key: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6099452808192000
+    m_Key: LodingAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6105805110960128
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6527521033347072
+    m_Key: UpGrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6527526636937216
+    m_Key: Sell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10049762111053824
+    m_Key: LocaleNum
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2838502073250611226
+  references:
+    version: 2
+    RefIds:
+    - rid: 2838502073250611226
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1677625840777

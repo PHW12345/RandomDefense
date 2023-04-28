@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower11
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: d73169ce3861ec14181777b49e2c61b9, type: 3}
+  - {fileID: 4469296296670092670, guid: ada839d841294d446a5c13f25d0b494d, type: 3}
+  - {fileID: 4469296296670092670, guid: 477dc8e813d2df24f896b291ec019ce0, type: 3}
+  - {fileID: 4469296296670092670, guid: e3af77a1d62e54440aa5a902f035a0ac, type: 3}
+  - {fileID: 4469296296670092670, guid: 009b7904ec17ec646a419e5215d873bd, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: -667665131, guid: c240afcd5e1c2f84ebf60476b5773977, type: 3}
+    towerName: "\uBC88\uAC1C \uB9C8\uBC95\uC0AC"
+    towerNameE: Lightning Wizard
+    info: "1\uCD08\uAC04 \uC2A4\uD134\uC774 \uC788\uB294 \uBC88\uAC1C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Uses lightning magic with stun for 1 second.
+    damage: 0
+    magicDamage: 20
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.1
+    range: 3.5
+    targetRange: 1x1
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: -667665131, guid: c240afcd5e1c2f84ebf60476b5773977, type: 3}
+    towerName: "\uBC88\uAC1C \uB9C8\uBC95\uC0AC"
+    towerNameE: Lightning Wizard
+    info: "1\uCD08\uAC04 \uC2A4\uD134\uC774 \uC788\uB294 \uBC88\uAC1C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Uses lightning magic with stun for 1 second.
+    damage: 0
+    magicDamage: 30
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.05
+    range: 4
+    targetRange: 1x1
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: -1769465649, guid: b4b6fc306ea19cb45b186e7d13a39d2d, type: 3}
+    towerName: "\uBC88\uAC1C \uB9C8\uBC95\uC0AC"
+    towerNameE: Lightning Wizard
+    info: "1\uCD08\uAC04 \uC2A4\uD134\uC774 \uC788\uB294 \uBC88\uAC1C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Uses lightning magic with stun for 1 second.
+    damage: 0
+    magicDamage: 45
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1
+    range: 4
+    targetRange: 1x1
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: -1769465649, guid: b4b6fc306ea19cb45b186e7d13a39d2d, type: 3}
+    towerName: "\uBC88\uAC1C \uB9C8\uBC95\uC0AC"
+    towerNameE: Lightning Wizard
+    info: "1\uCD08\uAC04 \uC2A4\uD134\uC774 \uC788\uB294 \uBC88\uAC1C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Uses lightning magic with stun for 1 second.
+    damage: 0
+    magicDamage: 65
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.95
+    range: 5
+    targetRange: 1x1
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: -1618431805, guid: 1d7a7a0b439249d44b98be4403d949a9, type: 3}
+    towerName: "\uBC88\uAC1C \uB9C8\uBC95\uC0AC"
+    towerNameE: Lightning Wizard
+    info: "1\uCD08\uAC04 \uC2A4\uD134\uC774 \uC788\uB294 \uBC88\uAC1C\uB9C8\uBC95\uC744
+      \uC0AC\uC6A9 \uD569\uB2C8\uB2E4."
+    infoE: Uses lightning magic with stun for 1 second.
+    damage: 0
+    magicDamage: 90
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.9
+    range: 5.5
+    targetRange: 1x1
+    cost: 70
+    sell: 400

@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower04
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: 11c061ae4c6178e459634f09cec39d55, type: 3}
+  - {fileID: 4469296296670092670, guid: 00053891279fe0048b6823dc8ad0065d, type: 3}
+  - {fileID: 4469296296670092670, guid: 8666dc28fc481bf479d859cf8e54ccb5, type: 3}
+  - {fileID: 4469296296670092670, guid: 5fb098be3ac49b249918dd2b17acf9e8, type: 3}
+  - {fileID: 4469296296670092670, guid: 0c741492af104914e9ef351f07e2bb00, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: -393008311, guid: ccb6fb43ac76d1647bd358f516aee435, type: 3}
+    towerName: "\uBD88\uD654\uC0B4\uAD81\uC218"
+    towerNameE: Fire Archer
+    info: "1\uCD08\uB2F9 20\uC5D0 \uB370\uBBF8\uC9C0\uB97C 5\uCD08\uAC04 \uC8FC\uB294
+      \uBD88\uD654\uC0B4\uC744 \uBC1C\uC0AC \uD569\uB2C8\uB2E4."
+    infoE: Fires a flaming arrow that deals 20 damage per second for 5 seconds.
+    damage: 10
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 1
+    death: 0
+    rate: 0.9
+    range: 4.5
+    targetRange: 1x1
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: -393008311, guid: ccb6fb43ac76d1647bd358f516aee435, type: 3}
+    towerName: "\uBD88\uD654\uC0B4\uAD81\uC218"
+    towerNameE: Fire Archer
+    info: "1\uCD08\uB2F9 20\uC5D0 \uB370\uBBF8\uC9C0\uB97C 5\uCD08\uAC04 \uC8FC\uB294
+      \uBD88\uD654\uC0B4\uC744 \uBC1C\uC0AC \uD569\uB2C8\uB2E4."
+    infoE: Fires a flaming arrow that deals 20 damage per second for 5 seconds.
+    damage: 14
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 1
+    death: 0
+    rate: 0.8
+    range: 5
+    targetRange: 1x1
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: 632480698, guid: 3710c65257513ed4583e33f2981921ab, type: 3}
+    towerName: "\uBD88\uD654\uC0B4\uAD81\uC218"
+    towerNameE: Fire Archer
+    info: "1\uCD08\uB2F9 20\uC5D0 \uB370\uBBF8\uC9C0\uB97C 5\uCD08\uAC04 \uC8FC\uB294
+      \uBD88\uD654\uC0B4\uC744 \uBC1C\uC0AC \uD569\uB2C8\uB2E4."
+    infoE: Fires a flaming arrow that deals 20 damage per second for 5 seconds.
+    damage: 22
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 1
+    death: 0
+    rate: 0.7
+    range: 6
+    targetRange: 1x1
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: 632480698, guid: 3710c65257513ed4583e33f2981921ab, type: 3}
+    towerName: "\uBD88\uD654\uC0B4\uAD81\uC218"
+    towerNameE: Fire Archer
+    info: "1\uCD08\uB2F9 20\uC5D0 \uB370\uBBF8\uC9C0\uB97C 5\uCD08\uAC04 \uC8FC\uB294
+      \uBD88\uD654\uC0B4\uC744 \uBC1C\uC0AC \uD569\uB2C8\uB2E4."
+    infoE: Fires a flaming arrow that deals 20 damage per second for 5 seconds.
+    damage: 34
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 1
+    death: 0
+    rate: 0.6
+    range: 7
+    targetRange: 1x1
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: 257267733, guid: 7ff05e41409f04147a21e8658de1f062, type: 3}
+    towerName: "\uBD88\uD654\uC0B4\uAD81\uC218"
+    towerNameE: Fire Archer
+    info: "1\uCD08\uB2F9 20\uC5D0 \uB370\uBBF8\uC9C0\uB97C 5\uCD08\uAC04 \uC8FC\uB294
+      \uBD88\uD654\uC0B4\uC744 \uBC1C\uC0AC \uD569\uB2C8\uB2E4."
+    infoE: Fires a flaming arrow that deals 20 damage per second for 5 seconds.
+    damage: 50
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 1
+    death: 0
+    rate: 0.5
+    range: 8
+    targetRange: 1x1
+    cost: 70
+    sell: 400

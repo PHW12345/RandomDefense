@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower06
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: 867bc874c2b1ee744a768c9b204d4933, type: 3}
+  - {fileID: 4469296296670092670, guid: 340849fefc0063f41b27daa579dfaa4c, type: 3}
+  - {fileID: 4469296296670092670, guid: da939a93321c4ef4b8074afa79c9336b, type: 3}
+  - {fileID: 4469296296670092670, guid: 8f19dc3dbe0a68749a361f19d2a0adcf, type: 3}
+  - {fileID: 4469296296670092670, guid: 3930840b32cd42e499f711fadb71f3f5, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: -456998248, guid: f7b509405887f634281f6e0b57eada91, type: 3}
+    towerName: "\uBB3C \uD3ED\uD0C4\uBCD1"
+    towerNameE: WaterBomb Man
+    info: "3\uCD08 \uB3D9\uC548 \uC801\uC758 \uC774\uB3D9\uC18D\uB3C4\uB97C 0.1\uB97C
+      \uAC10\uC18C \uC2DC\uD0B5\uB2C8\uB2E4."
+    infoE: Reduces the enemy's movement speed by 0.1 for 3 seconds.
+    damage: 11
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.1
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 3.5
+    targetRange: 1.5x1.5
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: -456998248, guid: f7b509405887f634281f6e0b57eada91, type: 3}
+    towerName: "\uBB3C \uD3ED\uD0C4\uBCD1"
+    towerNameE: WaterBomb Man
+    info: "3\uCD08 \uB3D9\uC548 \uC801\uC758 \uC774\uB3D9\uC18D\uB3C4\uB97C 0.15\uB97C
+      \uAC10\uC18C \uC2DC\uD0B5\uB2C8\uB2E4."
+    infoE: Reduces the enemy's movement speed by 0.15 for 3 seconds.
+    damage: 14
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.15
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 4
+    targetRange: 2x2
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: 149122304, guid: 3a3551f83d2cbc248be3808ab11fa5c3, type: 3}
+    towerName: "\uBB3C \uD3ED\uD0C4\uBCD1"
+    towerNameE: WaterBomb Man
+    info: "3\uCD08 \uB3D9\uC548 \uC801\uC758 \uC774\uB3D9\uC18D\uB3C4\uB97C 0.2\uB97C
+      \uAC10\uC18C \uC2DC\uD0B5\uB2C8\uB2E4."
+    infoE: Reduces the enemy's movement speed by 0.2 for 3 seconds.
+    damage: 20
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.2
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 4.5
+    targetRange: 2.5x2.5
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: 149122304, guid: 3a3551f83d2cbc248be3808ab11fa5c3, type: 3}
+    towerName: "\uBB3C \uD3ED\uD0C4\uBCD1"
+    towerNameE: WaterBomb Man
+    info: "3\uCD08 \uB3D9\uC548 \uC801\uC758 \uC774\uB3D9\uC18D\uB3C4\uB97C 0.25\uB97C
+      \uAC10\uC18C \uC2DC\uD0B5\uB2C8\uB2E4."
+    infoE: Reduces the enemy's movement speed by 0.25 for 3 seconds.
+    damage: 29
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.25
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 5
+    targetRange: 3x3
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: -1407362380, guid: 6414c0ee071618943a1db06ef16cda3e, type: 3}
+    towerName: "\uBB3C \uD3ED\uD0C4\uBCD1"
+    towerNameE: WaterBomb Man
+    info: "3\uCD08 \uB3D9\uC548 \uC801\uC758 \uC774\uB3D9\uC18D\uB3C4\uB97C 0.3\uB97C
+      \uAC10\uC18C \uC2DC\uD0B5\uB2C8\uB2E4."
+    infoE: Reduces the enemy's movement speed by 0.3 for 3 seconds.
+    damage: 41
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0.3
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 1.5
+    range: 5.5
+    targetRange: 3.5x3.5
+    cost: 70
+    sell: 400

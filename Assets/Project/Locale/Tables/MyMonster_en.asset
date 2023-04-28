@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyMonster_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7da0c6b6620112e48bceb5028c7131e7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7284776960
+    m_Localized: Orc Spearmen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101379792896
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191691546624
+    m_Localized: Orc spearmen are stamina type monsters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863666950144
+    m_Localized: ' Stamina:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1867966111744
+    m_Localized: 'MoveSpeed:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1871271223296
+    m_Localized: ' Armor:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1877533319168
+    m_Localized: 'MagicResi:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379965685424128
+    m_Localized: Egg Ghost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379962103488512
+    m_Localized: Skeleton Warrior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379916108750848
+    m_Localized: Orc Archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379900447219712
+    m_Localized: Ghost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379898337484800
+    m_Localized: Baby ET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379893954437120
+    m_Localized: Baby Skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379964049645568
+    m_Localized: ET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380611876675584
+    m_Localized: Baby Skeletons are defensive monsters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380613793472512
+    m_Localized: Baby ET is a magic defense type monster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380615706075136
+    m_Localized: Ghosts are speed type monsters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380617048252416
+    m_Localized: Orc archers have slightly higher health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380620516941824
+    m_Localized: Skeleton Warriors have slightly higher defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380622274355200
+    m_Localized: ET has slightly higher magic resistance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380626602876928
+    m_Localized: Egg Ghost moves slightly faster.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504185333538816
+    m_Localized: Orc axemen have high health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504188433129472
+    m_Localized: Pumpkinheads have high defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504190496727040
+    m_Localized: Maids have high magic resistance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504193076224000
+    m_Localized: Lady Ghost moves fast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504305726840832
+    m_Localized: Orc mages have very high stamina.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504308226646016
+    m_Localized: Dust cells have very high defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504310072139776
+    m_Localized: The Dark Maid has very high magic resistance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504311884079104
+    m_Localized: Shadow Ghost moves very fast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504372978311168
+    m_Localized: The Orc King has very high stamina.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504375436173312
+    m_Localized: Dark Skeleton have very high defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504377294249984
+    m_Localized: Warlocks have very, very high magic resistance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504379081023488
+    m_Localized: Phantom moves very, very fast.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507874941132800
+    m_Localized: Mid-Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509779847208960
+    m_Localized: Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512257128980480
+    m_Localized: Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512266943651840
+    m_Localized: Emperor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510115873873920
+    m_Localized: Emperor Cat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511698938421248
+    m_Localized: Emperor Lizard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510115127287808
+    m_Localized: Phantom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510114238095360
+    m_Localized: Warlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510112916889600
+    m_Localized: Dark Skeleton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510071846264832
+    m_Localized: Oak King
+    m_Metadata:
+      m_Items: []
+  - m_Id: 514752752443392
+    m_Localized: Dark Skeleton Emperor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 514749455720448
+    m_Localized: Emperor Orc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510018595381248
+    m_Localized: Orc Axeman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510020759642112
+    m_Localized: Pumpkin Head
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510023272030208
+    m_Localized: Maid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510025633423360
+    m_Localized: Lady Ghost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510060156739584
+    m_Localized: Oak Mage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510068348215296
+    m_Localized: Dust Cell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510070080462848
+    m_Localized: Dark Maid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510071040958464
+    m_Localized: Shadow Ghost
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

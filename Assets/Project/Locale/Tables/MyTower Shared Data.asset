@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MyTower Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MyTower
+  m_TableCollectionNameGuidString: 3b7265be13d7aa94eab3f81979178412
+  m_Entries:
+  - m_Id: 68781662208
+    m_Key: Normal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 135139745792
+    m_Key: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 185349758976
+    m_Key: Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 217696231424
+    m_Key: Legend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1220424294400
+    m_Key: Myth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5630751727616
+    m_Key: MagicDamage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323510122897408
+    m_Key: power
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323514111680512
+    m_Key: range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 323516322078720
+    m_Key: speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 324262304210944
+    m_Key: Mpower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340955705434112
+    m_Key: atk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340958222016512
+    m_Key: matk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340960474357760
+    m_Key: spe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 340964442169344
+    m_Key: ran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342961006370816
+    m_Key: ext
+    m_Metadata:
+      m_Items: []
+  - m_Id: 345510958653440
+    m_Key: sec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355928527659008
+    m_Key: 0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355933598572544
+    m_Key: 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355936186458112
+    m_Key: 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 355938388467712
+    m_Key: 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356455609065472
+    m_Key: archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356637553778688
+    m_Key: weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356642314313728
+    m_Key: bomb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356644398882816
+    m_Key: wizard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359108430848000
+    m_Key: 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359110238593024
+    m_Key: 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359112004395008
+    m_Key: 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359116735569920
+    m_Key: 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359123102523392
+    m_Key: 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359125430362112
+    m_Key: 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359127066140672
+    m_Key: 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359128789999616
+    m_Key: 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359134569750528
+    m_Key: 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359136046145536
+    m_Key: 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359138415927296
+    m_Key: 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 359140148174848
+    m_Key: 15
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5720427407575089159
+  references:
+    version: 2
+    RefIds:
+    - rid: 5720427407575089159
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1679301655005

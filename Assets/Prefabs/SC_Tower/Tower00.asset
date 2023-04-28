@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af2197308b3806b4c9c6cde44d0a5feb, type: 3}
+  m_Name: Tower00
+  m_EditorClassIdentifier: 
+  towerPrefab:
+  - {fileID: 4469296296670092670, guid: ae2b642c4e17941458da9390961a62c6, type: 3}
+  - {fileID: 4469296296670092670, guid: 04e63ddf505d0504197b5741e5cf710a, type: 3}
+  - {fileID: 4469296296670092670, guid: 12f86755af596ee4db96556ca05d5e74, type: 3}
+  - {fileID: 4469296296670092670, guid: 0d83ccab08f7c154bb2f8cff91230fb9, type: 3}
+  - {fileID: 4469296296670092670, guid: 505d4eadd5d144042a23ecb41945ca9c, type: 3}
+  weapon:
+  - grade: "\uC77C\uBC18"
+    gradeNum: 0
+    persent: 70
+    sprite: {fileID: -440845051, guid: 19c8adfeeaf502c4aa232d6853359b31, type: 3}
+    towerName: "\uAD81\uC218"
+    towerNameE: Archer
+    info: "\uC0AC\uC815\uAC70\uB9AC\uAC00 \uAE38\uBA70 \uACF5\uACA9\uC18D\uB3C4\uAC00
+      \uBE60\uB985\uB2C8\uB2E4."
+    infoE: Long range and fast attack speed.
+    damage: 12
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.8
+    range: 5
+    targetRange: 1x1
+    cost: 30
+    sell: 5
+  - grade: "\uC0C1\uAE09"
+    gradeNum: 1
+    persent: 20
+    sprite: {fileID: -440845051, guid: 19c8adfeeaf502c4aa232d6853359b31, type: 3}
+    towerName: "\uAD81\uC218"
+    towerNameE: Archer
+    info: "\uC0AC\uAC70\uB9AC\uAC00 \uAE38\uBA70 \uACF5\uACA9\uC18D\uB3C4\uAC00 \uBE60\uB985\uB2C8\uB2E4."
+    infoE: Long range and fast attack speed.
+    damage: 17
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.7
+    range: 5.5
+    targetRange: 1x1
+    cost: 40
+    sell: 50
+  - grade: "\uC601\uC6C5"
+    gradeNum: 2
+    persent: 7.5
+    sprite: {fileID: -1378859896, guid: ebfd9bcee7995ea4ca63188d2c2cde0c, type: 3}
+    towerName: "\uAD81\uC218"
+    towerNameE: Archer
+    info: "\uC0AC\uAC70\uB9AC\uAC00 \uAE38\uBA70 \uACF5\uACA9\uC18D\uB3C4\uAC00 \uBE60\uB985\uB2C8\uB2E4."
+    infoE: Long range and fast attack speed.
+    damage: 27
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.6
+    range: 6.5
+    targetRange: 1x1
+    cost: 50
+    sell: 100
+  - grade: "\uC804\uC124"
+    gradeNum: 3
+    persent: 2
+    sprite: {fileID: -1378859896, guid: ebfd9bcee7995ea4ca63188d2c2cde0c, type: 3}
+    towerName: "\uAD81\uC218"
+    towerNameE: Archer
+    info: "\uC0AC\uC815\uAC70\uB9AC\uAC00 \uAE38\uBA70 \uACF5\uACA9\uC18D\uB3C4\uAC00
+      \uBE60\uB985\uB2C8\uB2E4."
+    infoE: Long range and fast attack speed.
+    damage: 42
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.5
+    range: 8
+    targetRange: 1x1
+    cost: 60
+    sell: 200
+  - grade: "\uC2E0\uD654"
+    gradeNum: 4
+    persent: 0.5
+    sprite: {fileID: 1499964741, guid: d801669f2ca7ef94fbd34ced0ccbe1f5, type: 3}
+    towerName: "\uAD81\uC218"
+    towerNameE: Archer
+    info: "\uBAA8\uB4E0 \uC6A9\uBCD1 \uC911 \uC0AC\uAC70\uB9AC\uAC00 \uAC00\uC7A5
+      \uAE41\uB2C8\uB2E4."
+    infoE: Has the longest range of all soldiers..
+    damage: 62
+    magicDamage: 0
+    damageDef: 0
+    speedNuf: 0
+    poison: 0
+    poison2: 0
+    fire: 0
+    death: 0
+    rate: 0.4
+    range: 10
+    targetRange: 1x1
+    cost: 70
+    sell: 400

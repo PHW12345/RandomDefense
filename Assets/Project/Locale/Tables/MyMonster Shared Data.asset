@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MyMonster Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MyMonster
+  m_TableCollectionNameGuidString: 7da0c6b6620112e48bceb5028c7131e7
+  m_Entries:
+  - m_Id: 7284776960
+    m_Key: 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101379792896
+    m_Key: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191691546624
+    m_Key: 1Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863666950144
+    m_Key: Stamina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1867966111744
+    m_Key: MoveSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1871271223296
+    m_Key: Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1877533319168
+    m_Key: MagicResi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379893954437120
+    m_Key: 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379898337484800
+    m_Key: 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379900447219712
+    m_Key: 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379916108750848
+    m_Key: 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379962103488512
+    m_Key: 6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379964049645568
+    m_Key: 7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379965685424128
+    m_Key: 8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380611876675584
+    m_Key: 2Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380613793472512
+    m_Key: 3Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380615706075136
+    m_Key: 4Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380617048252416
+    m_Key: 5Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380620516941824
+    m_Key: 6Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380622274355200
+    m_Key: 7Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 380626602876928
+    m_Key: 8Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504185333538816
+    m_Key: 9Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504188433129472
+    m_Key: 10Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504190496727040
+    m_Key: 11Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504193076224000
+    m_Key: 12Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504305726840832
+    m_Key: 13Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504308226646016
+    m_Key: 14Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504310072139776
+    m_Key: 15Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504311884079104
+    m_Key: 16Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504372978311168
+    m_Key: 17Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504375436173312
+    m_Key: 18Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504377294249984
+    m_Key: 19Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504379081023488
+    m_Key: 20Info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507874941132800
+    m_Key: Mid-Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509779847208960
+    m_Key: Boss
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510018595381248
+    m_Key: 9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510020759642112
+    m_Key: 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510023272030208
+    m_Key: 11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510025633423360
+    m_Key: 12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510060156739584
+    m_Key: 13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510068348215296
+    m_Key: 14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510070080462848
+    m_Key: 15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510071040958464
+    m_Key: 16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510071846264832
+    m_Key: 17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510112916889600
+    m_Key: 18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510114238095360
+    m_Key: 19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510115127287808
+    m_Key: 20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510115873873920
+    m_Key: 37
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511698938421248
+    m_Key: 38
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512257128980480
+    m_Key: Hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512266943651840
+    m_Key: Emperor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 514749455720448
+    m_Key: 33
+    m_Metadata:
+      m_Items: []
+  - m_Id: 514752752443392
+    m_Key: 34
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5720427376297902091
+  references:
+    version: 2
+    RefIds:
+    - rid: 5720427376297902091
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1679186060919

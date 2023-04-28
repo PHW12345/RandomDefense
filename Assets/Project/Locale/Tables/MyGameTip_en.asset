@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyGameTip_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fa60f4f9f7cacb84c8ed927495581dc0, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 48900661248
+    m_Localized: Enforce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56010006528
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60057509888
+    m_Localized: 'At least 1 health   remaining = 1 star
+
+      At least 15 health
+      remaining = 2 stars
+
+      At least 25 health remaining = 3 stars'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 65224892416
+    m_Localized: One of attack power, magic attack power, attack speed, and range
+      increases at a random value.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2318425972736
+    m_Localized: Game Tip!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3905961648128
+    m_Localized: '  <Soldier %>
+
+
+      <color=#828282> [Normal] </color>70%
+
+
+      <color=#0082FF>
+      [High] </color>20%
+
+
+      <color=#DB00FF> [Hero] </color>7.5%
+
+
+      <color=#ff0000>
+      [Legend] </color>2%
+
+
+      <color=#FFE000> [Myth] </color>0.5%'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
