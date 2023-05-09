@@ -70,22 +70,12 @@ public class ObjectDetector : MonoBehaviour
     {
         //winSound = GetComponent<AudioSource>();
     }
-    //public void fireboll(GameObject clone)
-    //{
-    //    StartCoroutine("FireBoll");
 
-    //}
-
-    //private IEnumerator FireBoll(GameObject clone)
-    //{
-    //    yield return new WaitForSeconds(1.0f);
-    //    Destroy(gameObject);
-    //}
     private void Update()
     {
         // 마우스가 UI에 머물러 있을 때는 아래 코드가 실행되지 않도록 함 
         // ()에 아무것도 없으면 윈도우, 0넣으면 모바일
-        if (EventSystem.current.IsPointerOverGameObject() == true)
+        if (EventSystem.current.IsPointerOverGameObject(0) == true)
         {
             return;
         }

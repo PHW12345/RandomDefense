@@ -115,6 +115,10 @@ MonoBehaviour:
     m_Key: LocaleNum
     m_Metadata:
       m_Items: []
+  - m_Id: 25181192356945920
+    m_Key: Monster Book
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
